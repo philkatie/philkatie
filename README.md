@@ -17,4 +17,4 @@
 🎧 if I'm not listening to an audiobook, I'm listening to a podcast about books, the internet, diseases, history, or probably anything else<br>
 💥 big DC Comics fan (particularly Batman... my dog's name is Bruce Wayne)<br>
 🏒 huge hockey fan! Go Stars!<br>
-❓ I live for board games and trivia nights
+🧠 I live for board games and trivia nights
