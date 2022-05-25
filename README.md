@@ -2,8 +2,8 @@
 
 ### Professional Stuff
 
-🤔 seeking a role as a Full Stack Software Engineer<br>
-🖥 currently a Software Engineering Immersive Fellow at General Assembly<br>
+🤔 Full Stack Software Engineer<br>
+🖥 Software Engineering Immersive Fellow at General Assembly<br>
 📝 JavaScript, Python3, HTML5, CSS3, Node.js, MongoDB, Django<br>
 🔭 looking to take on some Ruby and Java projects in the near future<br>
 👩🏻‍🔬 BS Chemical Engineering from Purdue University, so you know I can do technical stuff<br>
